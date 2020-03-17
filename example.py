@@ -6,7 +6,7 @@ from time import sleep
 #from price import getbitcoin_price
 from price import getbitcoin_price
 
-API_KEY='017c4707-d8d9-4b78-bb0d-3a309a6e96d9'
+API_KEY=''
 
 while True:
   query = getbitcoin_price(API_KEY)
